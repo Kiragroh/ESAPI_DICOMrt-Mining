@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+debug/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Site-specific configuration – copy settings.example.ini → settings.ini and adapt
+settings.ini
+
+# Log files generated at runtime
+*.log
+excel_export_log_*.txt
